@@ -1,0 +1,31 @@
+# Dataset (not distributed)
+Dataset/
+Dataset - expanded/
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.spyproject/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

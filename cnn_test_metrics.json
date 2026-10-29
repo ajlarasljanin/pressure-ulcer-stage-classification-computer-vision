@@ -1,0 +1,16 @@
+{
+  "model_a": {
+    "tag": "modelA_triage",
+    "accuracy": 0.9622093023255814,
+    "macro_f1": 0.9233077806931798,
+    "n_test": 344
+  },
+  "model_b": {
+    "tag": "modelB_staging",
+    "accuracy": 0.7424749163879598,
+    "macro_f1": 0.7446766706257503,
+    "n_test": 299
+  },
+  "seed": 42,
+  "group_split": "phash 70/15/15"
+}
